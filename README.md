@@ -1,1 +1,1 @@
-The code of MS-DIN will release soon
+The code of MDI-Net will release soon
