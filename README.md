@@ -1,1 +1,1 @@
-The code of MDI-Net will release soon
+The code of MDL-Net will release soon
